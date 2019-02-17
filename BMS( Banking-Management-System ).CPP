@@ -341,7 +341,7 @@ void intro()
 	//cout<<"\tMANAGEMENT";
 	//cout<<"\tSYSTEM";
 	cout<<"\n\n\t     MADE BY : SHUBHAM MALIK";
-	cout<<"\n\n             NETAJI SUBBHAS INSTITUE OF TECHNOLOGY";
+	cout<<"\n\n             NSIT";
 	getch();
 }
 
